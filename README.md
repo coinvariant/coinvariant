@@ -1,1 +1,1 @@
-
+I am a bioinformatician with primary interest in deep learning, developmental biology and software development. I like diving deep and making sure that methods are applied correctly in appropriate contexts and that the resutls are meaningful.
